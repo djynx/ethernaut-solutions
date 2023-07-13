@@ -1,0 +1,124 @@
+{
+  "transactions": [
+    {
+      "hash": "0x811b087a2a20f58060ad6c3094283d280df1444c963245b6295775c73fd647c5",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xea1FF510978815F0be399A8c169CF175020bBAd9",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://sepolia.infura.io/v3/2c415ee5637444acad266ac0956fe404",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xd54b58f084bfdec0458254832cf4bbc39a168c99",
+        "to": "0xea1ff510978815f0be399a8c169cf175020bbad9",
+        "gas": "0x9069",
+        "value": "0x0",
+        "data": "0xa6376746000000000000000000000000d54b58f084bfdec0458254832cf4bbc39a168c99",
+        "nonce": "0xf4",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x724266d18133b7eb3b5155b4f501f623363e9bf6277aa399626b9940e60f8a73",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xea1FF510978815F0be399A8c169CF175020bBAd9",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://sepolia.infura.io/v3/2c415ee5637444acad266ac0956fe404",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xd54b58f084bfdec0458254832cf4bbc39a168c99",
+        "to": "0xea1ff510978815f0be399a8c169cf175020bbad9",
+        "gas": "0x113cd",
+        "value": "0x0",
+        "data": "0xe43252d7000000000000000000000000d54b58f084bfdec0458254832cf4bbc39a168c99",
+        "nonce": "0xf5",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0x16fcdbde692eeb357ad59e98b767b756b9b6661819d74cac3f3ed83f03749c69",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xea1FF510978815F0be399A8c169CF175020bBAd9",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://sepolia.infura.io/v3/2c415ee5637444acad266ac0956fe404",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xd54b58f084bfdec0458254832cf4bbc39a168c99",
+        "to": "0xea1ff510978815f0be399a8c169cf175020bbad9",
+        "gas": "0x14d07",
+        "value": "0x38d7ea4c68000",
+        "data": "0xac9650d800000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000004d0e30db00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a4ac9650d80000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000004d0e30db00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf6",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xd8187d6d0252f5419daa6e908393066d5532040f526192273cb8ce3206f366ac",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xea1FF510978815F0be399A8c169CF175020bBAd9",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://sepolia.infura.io/v3/2c415ee5637444acad266ac0956fe404",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xd54b58f084bfdec0458254832cf4bbc39a168c99",
+        "to": "0xea1ff510978815f0be399a8c169cf175020bbad9",
+        "gas": "0xc87c",
+        "value": "0x0",
+        "data": "0xb61d27f6000000000000000000000000d54b58f084bfdec0458254832cf4bbc39a168c9900000000000000000000000000000000000000000000000000071afd498d000000000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+        "nonce": "0xf7",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    },
+    {
+      "hash": "0xab9917cdddd567d44df3266436754867df4230d5906c8199266194bcbac36202",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0xea1FF510978815F0be399A8c169CF175020bBAd9",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://sepolia.infura.io/v3/2c415ee5637444acad266ac0956fe404",
+      "transaction": {
+        "type": "0x02",
+        "from": "0xd54b58f084bfdec0458254832cf4bbc39a168c99",
+        "to": "0xea1ff510978815f0be399a8c169cf175020bbad9",
+        "gas": "0xb6b4",
+        "value": "0x0",
+        "data": "0x9d51d9b7000000000000000000000000d54b58f084bfdec0458254832cf4bbc39a168c99",
+        "nonce": "0xf8",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x811b087a2a20f58060ad6c3094283d280df1444c963245b6295775c73fd647c5",
+    "0x724266d18133b7eb3b5155b4f501f623363e9bf6277aa399626b9940e60f8a73",
+    "0x16fcdbde692eeb357ad59e98b767b756b9b6661819d74cac3f3ed83f03749c69",
+    "0xd8187d6d0252f5419daa6e908393066d5532040f526192273cb8ce3206f366ac",
+    "0xab9917cdddd567d44df3266436754867df4230d5906c8199266194bcbac36202"
+  ],
+  "path": "/Users/djynx/clones/ethernaut-solutions/broadcast/PuzzleWalletAttack.s.sol/11155111/run-latest.json",
+  "returns": {},
+  "timestamp": 1689266811,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "6e79352"
+}
